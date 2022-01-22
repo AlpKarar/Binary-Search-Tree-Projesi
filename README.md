@@ -6,6 +6,8 @@ Proje 3
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
+
+
 Root 7'dir. Root'un solunda 5 bulunur. Sağında 8 bulunur.
 
 5'in solunda 1 bulunur. Sağında 6 bulunur.
